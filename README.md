@@ -10,7 +10,7 @@
 - ## 🧰 Tech I'm Exploring
 - ☁️ Cloud: AWS, GCP(Basics)
 - 🐳 Containers: Docker
-- 🔧 DevOps Tools: Jenkins, Terraform
+- 🔧 DevOps Tools: Jenkins, Terraform, Kubernetes
 - 🔧 Build Tools: Maven
 - 🔧 Configuration Management Tools- Ansible, Chef
 - ⚙️ CI/CD Pipelines

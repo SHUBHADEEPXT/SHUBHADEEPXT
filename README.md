@@ -21,7 +21,7 @@
 
 ## 💬 Let's Connect
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/shubhadeep-bhowmik-74b5a214b/))
-- ✉️ xterminator444@gmail.com
+- ✉️ xterminator444@gmail.com / shubhadeep010@gmail.com
 
 <!---
 SHUBHADEEPXT/SHUBHADEEPXT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @SHUBHADEEPXT
+👋 Hi, I’m @SHUBHADEEPXT
 - 🚀 **Aspiring DevOps Engineer**  
 - 🛠️ Former Support & Testing Engineer | Transitioning to Cloud & Automation
 - 📍 Based in Bangalore, India 
 - 💞️ I’m looking to collaborate on various java and devops projects
-- 👀 I’m interested in technologies, sports, cooking, travelling and life (the science and the fiction, the myths and the hope)... 
+- 👀 I’m interested in technologies, sports, cooking, traveling and life (the science and the fiction, the myths and the hope)... 
 - ⚡ Fun fact: I love cricket, anime and AI. Looking forward to create something with these three.
 
 
-- ## 🧰 Tech I'm Exploring
+## 🧰 Tech I'm Exploring
 - ☁️ Cloud: AWS, GCP(Basics)
 - 🐳 Containers: Docker
 - 🔧 DevOps Tools: Jenkins, Terraform, Kubernetes

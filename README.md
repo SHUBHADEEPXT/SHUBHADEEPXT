@@ -1,13 +1,11 @@
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Shubhadeep+%E2%9C%8C%EF%B8%8F;DevOps+Engineer+%7C+Cloud+%7C+SRE+in+progress;Docker+%7C+Kubernetes+%7C+Terraform+%7C+AWS;CI%2FCD+%7C+Observability+%7C+Linux+%7C+Git)
  
 # Shubhadeep Bhowmik — DevOps Engineer
 [![Profile Views](https://komarev.com/ghpvc/?username=SHUBHADEEPXT&style=for-the-badge)](https://github.com/SHUBHADEEPXT)
 [![GitHub followers](https://img.shields.io/github/followers/SHUBHADEEPXT?style=for-the-badge)](https://github.com/SHUBHADEEPXT?tab=followers)
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/XT1396?style=for-the-badge)](https://x.com/XT1396)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=Docker+%7C+Kubernetes+%7C+Terraform;AWS+%7C+CI%2FCD+%7C+Linux;Monitoring+%7C+GitHub+Actions+%7C+Jenkins)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Shubhadeep+%E2%9C%8C%EF%B8%8F;DevOps+Engineer+%7C+Cloud+%7C+SRE+in+progress;Docker+%7C+Kubernetes+%7C+Terraform+%7C+AWS;CI%2FCD+%7C+Observability+%7C+Linux+%7C+Git)
 
 </div>
 

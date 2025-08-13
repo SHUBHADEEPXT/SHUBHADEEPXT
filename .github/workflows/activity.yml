@@ -1,0 +1,24 @@
+name: Update recent activity
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: JamesIves/github-pages-deploy-action@v4
+        if: ${{ always() }}
+        with:
+          branch: gh-pages
+          folder: .
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@v0.3.0
+        with:
+          COMMIT_MSG: "chore: 🔄 update recent GitHub activity"

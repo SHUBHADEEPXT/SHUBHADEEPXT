@@ -1,0 +1,19 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          commit_message: "chore: 📰 update blog posts"
+          feed_list: "https://your-blog-feed-url-here" # Replace with your RSS/Atom feed URL
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"

@@ -40,16 +40,15 @@
 > Swap these with your real repos once public.
 
 - **TaskMaster Pro (Todo App)** — CI/CD · Docker · K8s · Monitoring · GitHub Actions → *single‑click deploy*
-- **Gladiators Cricket** — multi‑service layout with Nginx, caching, and basic observability
-- **AWS Cost Saver (Lambda)** — deletes stale EBS snapshots; adds billing alerts
+- **Portfolio** — multi‑service layout with Nginx, docker image, terraform infrastructure. argocd deployement, caching, and basic observability
 
 ---
 
 ### 📈 Stats (auto‑refresh)
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=SHUBHADEEPXT&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=SHUBHADEEPXT&theme=dark&border_radius=5&background=50%2C055862C3%2C7E2D2DD7&border=EB5454)](https://git.io/streak-stats)  
+	
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHUBHADEEPXT&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBHADEEPXT&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

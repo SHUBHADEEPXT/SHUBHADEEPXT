@@ -12,9 +12,9 @@
 ---
 
 ### 👋 About me
-- Transitioned from **Software Support & QA** → **DevOps/Cloud/SRE** (hands-on, project-first)
-- Crafting end‑to‑end pipelines: **Docker · Kubernetes · Terraform · AWS · GitHub Actions/Jenkins**
-- Currently polishing two showcase projects: **TaskMaster (Todo)** & **Gladiators Cricket site**
+- Transitioned from **Software Support Engineer** → **DevOps/Cloud/SRE** (hands-on, project-first)
+- Crafting end‑to‑end pipelines: **Docker · Kubernetes · Terraform · AWS · GitHub Action, Jenkins, ArgoCD**
+- Currently polishing two showcase projects: **TaskMaster (Todo)** & **Durga Puja Photo Sharing Platform **
 - Posting daily bite‑sized learnings on **X** and weekly deep dives on **LinkedIn/GitHub**
 
 > *I like turning messy deployments into boringly reliable systems.*
@@ -40,7 +40,7 @@
 > Swap these with your real repos once public.
 
 - **TaskMaster Pro (Todo App)** — CI/CD · Docker · K8s · Monitoring · GitHub Actions → *single‑click deploy*
-- **Portfolio** — multi‑service layout with Nginx, docker image, terraform infrastructure. argocd deployement, caching, and basic observability
+- **Durga Puja Platform** — multi‑service layout with Nginx, docker image, terraform infrastructure. argocd deployement, caching, and basic observability
 
 ---
 

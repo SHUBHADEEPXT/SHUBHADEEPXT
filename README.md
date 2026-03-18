@@ -15,7 +15,7 @@
 - 🔐 Cybersecurity Engineer (L2) → DevSecOps (hands-on, project-first)
 - 🛡️ Trend Micro Deep Security · ARCON PAM · Malware Analysis
 - ☁️ AWS · Kubernetes · Terraform · Docker · GitHub Actions · ArgoCD
-- Posting daily bite‑sized learnings on **X** and weekly deep dives on **LinkedIn/GitHub**
+- 🧩 Posting daily bite‑sized learnings on **X** and weekly deep dives on **LinkedIn/GitHub**
 - 📍 Bengaluru | Open to: SOC L2 · DevSecOps · Cloud Security roles
 
 > *I like turning messy deployments into boringly reliable systems.*

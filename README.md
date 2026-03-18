@@ -24,8 +24,8 @@
 
 ### 🧰 Toolbox
 <p>
-  <img src="https://img.shields.io/badge/TrendMivro-333?logo=trendmicro&logoColor=white&labelColor=111" />
-  <img src="https://img.shields.io/badge/Arcon-333?logo=PAM&logoColor=white&labelColor=111" />
+  <img src="https://img.shields.io/badge/Trend Micro-333?logo=trendmicro&logoColor=white&labelColor=111" />
+  <img src="https://img.shields.io/badge/Arcon Pam-333?logo=Arcon&logoColor=white&labelColor=111" />
   <img src="https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white&labelColor=111" />
   <img src="https://img.shields.io/badge/Docker-333?logo=docker&logoColor=white&labelColor=111" />
   <img src="https://img.shields.io/badge/Kubernetes-333?logo=kubernetes&logoColor=white&labelColor=111" />

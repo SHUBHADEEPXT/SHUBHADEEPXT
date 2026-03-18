@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/SHUBHADEEPXT?style=for-the-badge)](https://github.com/SHUBHADEEPXT?tab=followers)
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/XT1396?style=for-the-badge)](https://x.com/XT1396)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Shubhadeep+%E2%9C%8C%EF%B8%8F;DevOps+Engineer+%7C+Cloud+%7C+SRE+in+progress;Docker+%7C+Kubernetes+%7C+Terraform+%7C+AWS;CI%2FCD+%7C+Observability+%7C+Linux+%7C+Git)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Shubhadeep+%E2%9C%8C%EF%B8%8F;CyberSecurity+Engineer+%7C+Cloud+%7C+%7C+TrendMicro+%7C+ArconPAM+%7C+MalwareAnalysis;Docker+%7C+Kubernetes+%7C+Terraform+%7C+AWS;CI%2FCD+%7C+Observability+%7C+Linux+%7C+Git)
 
 </div>
 
@@ -24,6 +24,8 @@
 
 ### 🧰 Toolbox
 <p>
+  <img src="https://img.shields.io/badge/TrendMivro-333?logo=trendmicro&logoColor=white&labelColor=111" />
+  <img src="https://img.shields.io/badge/Arcon-333?logo=PAM&logoColor=white&labelColor=111" />
   <img src="https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white&labelColor=111" />
   <img src="https://img.shields.io/badge/Docker-333?logo=docker&logoColor=white&labelColor=111" />
   <img src="https://img.shields.io/badge/Kubernetes-333?logo=kubernetes&logoColor=white&labelColor=111" />

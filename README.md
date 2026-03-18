@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/SHUBHADEEPXT?style=for-the-badge)](https://github.com/SHUBHADEEPXT?tab=followers)
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/XT1396?style=for-the-badge)](https://x.com/XT1396)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Shubhadeep+%E2%9C%8C%EF%B8%8F;CyberSecurity+Engineer;Cloud+%7C+TrendMicro+%7C+ArconPAM;Docker+%7C+Kubernetes+%7C+Terraform+%7C+AWS;CI%2FCD+%7C+Observability+%7C+Linux+%7C+Git)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Shubhadeep+%E2%9C%8C%EF%B8%8F;CyberSecurity+Engineer;TrendMicro+%7C+ArconPAM+%7C+MalwareAnalysis;DevopsEnginner;Docker+%7C+Kubernetes+%7C+Terraform+%7C+AWS;CI%2FCD+%7C+Observability+%7C+Linux+%7C+Git)
 
 </div>
 

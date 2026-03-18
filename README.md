@@ -12,10 +12,11 @@
 ---
 
 ### 👋 About me
-- Transitioned from **Software Support Engineer** → **DevOps/Cloud/SRE** (hands-on, project-first)
-- Crafting end‑to‑end pipelines: **Docker · Kubernetes · Terraform · AWS · GitHub Action, Jenkins, ArgoCD**
-- Currently polishing two showcase projects: **TaskMaster (Todo)** & **Durga Puja Photo Sharing Platform **
+- 🔐 Cybersecurity Engineer (L2) → DevSecOps (hands-on, project-first)
+- 🛡️ Trend Micro Deep Security · ARCON PAM · Malware Analysis
+- ☁️ AWS · Kubernetes · Terraform · Docker · GitHub Actions · ArgoCD
 - Posting daily bite‑sized learnings on **X** and weekly deep dives on **LinkedIn/GitHub**
+- 📍 Bengaluru | Open to: SOC L2 · DevSecOps · Cloud Security roles
 
 > *I like turning messy deployments into boringly reliable systems.*
 

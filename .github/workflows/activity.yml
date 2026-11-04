@@ -5,20 +5,17 @@ on:
     - cron: '0 */12 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: JamesIves/github-pages-deploy-action@v4
-        if: ${{ always() }}
-        with:
-          branch: gh-pages
-          folder: .
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@v0.3.0
+      - uses: jamesgeorge007/github-activity-readme@v0.4.5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "chore: 🔄 update recent GitHub activity"
+          MAX_LINES: 5
